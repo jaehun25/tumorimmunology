@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Tumor Immunology Laboratory</title>
+    <link>https://tumorimmunology.yonsei.ac.kr/posts/</link>
+      <atom:link href="https://tumorimmunology.yonsei.ac.kr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jan 2026 11:02:11 +0900</lastBuildDate>
+    <image>
+      <url>https://tumorimmunology.yonsei.ac.kr/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Posts</title>
+      <link>https://tumorimmunology.yonsei.ac.kr/posts/</link>
+    </image>
+    
+    <item>
+      <title>Tumor Immunology Lab</title>
+      <link>https://tumorimmunology.yonsei.ac.kr/posts/first-post/</link>
+      <pubDate>Mon, 05 Jan 2026 11:02:11 +0900</pubDate>
+      <guid>https://tumorimmunology.yonsei.ac.kr/posts/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
